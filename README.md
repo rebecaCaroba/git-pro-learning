@@ -7,3 +7,5 @@
 ``git commit -a -m 'Initial commit'`` Pula a Area de Preparo
 
 ``git push`` Usado para enviar uma hamificação para enviá-lo para o servidor remoto
+
+``git rm`` Remove os arquivos rastreados
