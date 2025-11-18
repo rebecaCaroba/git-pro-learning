@@ -9,3 +9,5 @@
 ``git push`` Usado para enviar uma hamificação para enviá-lo para o servidor remoto
 
 ``git rm`` Remove os arquivos rastreados
+
+``git log`` Acessar o histórico de Commits
