@@ -13,3 +13,5 @@
 ``git log`` Acessar o histórico de Commits
 
 ``git commit --amend`` Comando editar a mensagem do Commit 
+
+``git reset HEAD <fileName>`` Retira um arquivo presente no Stage
