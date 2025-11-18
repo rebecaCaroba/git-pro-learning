@@ -11,3 +11,5 @@
 ``git rm`` Remove os arquivos rastreados
 
 ``git log`` Acessar o histórico de Commits
+
+``git commit --amend`` Comando editar a mensagem do Commit 
