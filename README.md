@@ -15,3 +15,7 @@
 ``git commit --amend`` Comando editar a mensagem do Commit 
 
 ``git reset HEAD <fileName>`` Retira um arquivo presente no Stage
+
+``git fetch [remote-name]`` Baixa os dados para o repositório local que você ainda nao tem
+
+``git pull`` Busca os dados do servidor de onde você originalmente clonou e automaticamente tenta mescla-lo dentro do código que você está trabalhando.
