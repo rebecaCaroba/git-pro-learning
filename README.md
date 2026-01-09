@@ -25,3 +25,7 @@
 ``git tag [tagname]`` Tag do tipo leve
 
 ``git tag -a [tagname] -m 'my version tag'`` Tag do tipo anotada
+
+``git branch [nome-da-branch]`` Cria uma branch
+
+``git checkout [nome-da-branch]`` Muda para a branch
