@@ -21,3 +21,7 @@
 ``git pull`` Busca os dados do servidor de onde você originalmente clonou e automaticamente tenta mescla-lo dentro do código que você está trabalhando.
 
 ``git tag`` Lista as tags, tags são marcações que podem serem feitas ao decorrer da história
+
+``git tag [tagname]`` Tag do tipo leve
+
+``git tag -a [tagname] -m 'my version tag'`` Tag do tipo anotada
