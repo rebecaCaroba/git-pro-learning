@@ -28,4 +28,6 @@
 
 ``git branch [nome-da-branch]`` Cria uma branch
 
+``git branch -d [nome-da-branch]`` Delata a branch 
+
 ``git checkout [nome-da-branch]`` Muda para a branch
