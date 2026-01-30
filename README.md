@@ -31,3 +31,7 @@
 ``git branch -d [nome-da-branch]`` Delata a branch 
 
 ``git checkout [nome-da-branch]`` Muda para a branch
+
+``git branch`` Lista as branch atuais.
+
+``git brach -v`` Lista as branch atuais e seus ultimos commits.
